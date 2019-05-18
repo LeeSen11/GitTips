@@ -1,5 +1,5 @@
 在dev分支上检出一个feature本地分支. 当feature分支上功能开发完毕之后,将feature上的代码rebase到dev分支上.
 但是在feature分支上的代码rebase到dev上之前,dev分支是不会更新对应远程分支上的代码的
 
-
+现在dev分支对应的远程分支有了更新,但是目前没有将这些更新同步到本地的dev分支,这是在dev更新之前的第一次提交
 
